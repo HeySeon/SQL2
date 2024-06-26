@@ -4,8 +4,7 @@
 
 초보자도 쉽게 배울 수 있도록 SQL 튜닝 수업 내용을 정리하였습니다.
 
-<img src="https:![image](https://github.com/HeySeon/SQL2/assets/96812608/8263b11c-bcbc-45dd-b01f-3a9de0332a91)
-" width="600" height="400">
+<img src="https:![image](https://github.com/HeySeon/SQL2/assets/96812608/8263b11c-bcbc-45dd-b01f-3a9de0332a91)" width="600" height="400">
 
 &nbsp;
 
