@@ -4,7 +4,7 @@
 
 초보자도 쉽게 배울 수 있도록 SQL 튜닝 수업 내용을 정리하였습니다.
 
-<img src="https://https://github.com/HeySeon/SQL2/upload/main" width="600" height="400">
+<img src="https:https://raw.githubusercontent.com/oracleyu01/rac_class/main/001.png" width="600" height="400">
 
 &nbsp;
 
