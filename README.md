@@ -1,4 +1,4 @@
-<img src="https:![image](https://github.com/HeySeon/SQL2/assets/96812608/22720303-c653-4466-bc3a-02e68a6174e1) width="600" height="400"># 오라클 RAC 수업
+<img src="https:![image](https://github.com/HeySeon/SQL2/assets/96812608/22720303-c653-4466-bc3a-02e68a6174e1)
 &nbsp;
 
 안녕하세요, 여러분!  🌟
